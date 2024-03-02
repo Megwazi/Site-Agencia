@@ -1,0 +1,20 @@
+.nav-main{
+    background-color: rgb(119, 81, 81);
+}
+
+.nav-main li{
+    font-family: "Hedvig Letters Serif", serif;
+    margin-top: 20px;
+    margin-right: 200px;
+    font-size: 25px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-main img{
+    width: 220px;
+    height: 100px;
+    object-fit: cover;  
+}
